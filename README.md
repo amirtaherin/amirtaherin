@@ -32,8 +32,8 @@ When I’m not deep in code or running profiling scripts, I enjoy structuring ch
 
 ### 📬 Let’s Connect
 
-- ✉️ taherin.a_[at]  northeastern.edu
-- ✉️ amirtaherin _[at]_ gmail.com
+- ✉️ taherin.a _[at]  northeastern.edu
+- ✉️ amirtaherin _[at] gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amir-taherin-7a7a1a90)
 - 🌍 [Personal Website / Portfolio](https://amirtaherin.github.io/) 
 
