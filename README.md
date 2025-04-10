@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Amir 👋</h1>
 
 <p align="center">
-  <em>PhD Candidate in Computer Systems & Architecture | Member of [LinkedIn](https://www.linkedin.com/in/amir-taherin-7a7a1a90) | Open Source Collaborator</em>
+  <em>PhD Candidate in Computer Systems & Architecture | NUCAR, Northeastern University | Open Source Collaborator</em>
 </p>
 
 ---
